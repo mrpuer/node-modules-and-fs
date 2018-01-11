@@ -1,8 +1,8 @@
 # Модули и работа с файлами
 
-* Lesson1 check `npm run start1`
-* Lesson2 check `npm run start2`
-* Lesson3 check `npm run start3`
+* Task1 check `npm run start1`
+* Task2 check `npm run start2`
+* Task3 check `npm run start3`
 
 ## task1 - Чтение и запись файла на промисах.
 
